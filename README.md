@@ -1,6 +1,7 @@
 # AutoSkip 🚀
 
 AutoSkip is a tool that automates clicking the "Skip Intro" button or performing similar actions in applications and video players, saving you time and simplifying interaction with interfaces. ⏩
+![](https://github.com/DISHAI/autoskip/blob/main/image/DemoImage.png?raw=true)
 
 ## Installation 🛠️
 
